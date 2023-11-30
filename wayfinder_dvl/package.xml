@@ -2,9 +2,9 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>wayfinder_dvl</name>
-  <version>0.0.0</version>
-  <description>Wayfinder DVL Node for ROS2</description>
-  <maintainer email="noel@todo.todo">noel</maintainer>
+  <version>0.1.0</version>
+  <description>Teledyne Wayfinder DVL package ROS2</description>
+  <maintainer email="nfpb1993@gmail.com">kabronius</maintainer>
   <license>Apache 2.0</license>
 
   <test_depend>ament_copyright</test_depend>
